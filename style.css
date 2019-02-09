@@ -1,0 +1,22 @@
+body{
+	background-color: #181818;
+}
+
+#container{
+	background-color: #ffffff;
+
+	margin: 20px auto;
+
+	width: 60vw;
+	height: 60vh;
+
+	margin: 10vh auto;
+}
+
+canvas{
+	width: 60vw;
+	height: 60vh;
+	/*display: block;*/
+	/*font-family:'digital-clock-font';*/
+ 	/*src: url('put_the_location_to_your_font.ttf or .otf');*/
+}
